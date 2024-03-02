@@ -1,5 +1,5 @@
 {
-    "name": "kamrul/helpers",
+    "name": "kamrul-bd/helpers",
     "description": "helper",
     "type": "helpers",
     "autoload": {
