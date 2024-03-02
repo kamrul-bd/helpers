@@ -2,6 +2,7 @@
     "name": "kamrul-bd/helpers",
     "description": "helper",
     "type": "helpers",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Kamrul\\Helpers\\": "src/"
